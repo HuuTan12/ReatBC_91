@@ -14,6 +14,10 @@ import CarDemo from './Page/StateDemo/CarDemo'
 import TinderClone from './Page/StateDemo/TinderClone'
 import PropDemo from './Page/Props/PropDemo'
 import CardDemo from './Page/Props/CardDemo'
+import RenderWithMap from './Page/Props/RenderWithMap'
+import ProductList from './Page/Props/BaiTapProduct/ProductList'
+import LiftingStateUpDemo from './Page/LiftingStateUpDemo/LiftingStateUpDemo'
+import ExerciseCarStore from './Page/BaiTapLifiting/ExerciseCarStore'
 
 
 
@@ -31,7 +35,11 @@ createRoot(document.getElementById('root')).render(
     {/* <ChangeFontSize /> */}
     {/* <CarDemo /> */}
     {/* <TinderClone /> */}
-    <PropDemo />
+    {/* <PropDemo /> */}
+    {/* <RenderWithMap /> */}
+    {/* <ProductList /> */}
+    {/* <LiftingStateUpDemo /> */}
+    <ExerciseCarStore />
     
 
 

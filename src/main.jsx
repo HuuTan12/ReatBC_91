@@ -18,6 +18,10 @@ import RenderWithMap from './Page/Props/RenderWithMap'
 import ProductList from './Page/Props/BaiTapProduct/ProductList'
 import LiftingStateUpDemo from './Page/LiftingStateUpDemo/LiftingStateUpDemo'
 import ExerciseCarStore from './Page/BaiTapLifiting/ExerciseCarStore'
+import BaiTapGioHang from './Page/BaiTapGioHang/BaiTapGioHang'
+import GetApiProductPage from './Page/Api/GetApiProductPage'
+import FormReatDemo from './Page/FormReatDemo/FormReatDemo'
+import DemoFormikYup from './Page/FormReatDemo/DemoFormikYup'
 
 
 
@@ -39,7 +43,11 @@ createRoot(document.getElementById('root')).render(
     {/* <RenderWithMap /> */}
     {/* <ProductList /> */}
     {/* <LiftingStateUpDemo /> */}
-    <ExerciseCarStore />
+    {/* <ExerciseCarStore /> */}
+    {/* <BaiTapGioHang /> */}
+    {/* <GetApiProductPage /> */}
+    {/* <FormReatDemo /> */}
+    <DemoFormikYup />
     
 
 
